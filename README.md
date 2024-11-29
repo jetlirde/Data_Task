@@ -17,7 +17,7 @@ pip install -r requirements.txt
 pip install streamlit sqlite3
 
 Run the application
-streamlit run app.py
+streamlit run web_app.py
 
 When I run the app , I can open this url:http://localhost:8503/
 You can see like in image.
