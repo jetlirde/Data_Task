@@ -3,7 +3,7 @@
 The application is built using Python.
 Streamlit: For the web interface.
 SQLite: For database storage.
-SQLite Database (vikings.db): A pre-configured SQLite database is required, which contains character data.
+SQLite Database (vikings.db)
 Search: Search for characters by name or description.
 Character List: Shows all Viking characters with their images and basic information.
 Character details: Click on a character to see detailed information, including a description, actor and image.
